@@ -1,6 +1,6 @@
 # PixelPop
 
-![PixelPop Logo](https://drive.google.com/uc?export=view&id=1WGz3nXZQ65flwqlvNi3fEU_nabXiNuE3)
+![PixelPop Logo](app/src/main/res/drawable-xxxhdpi)
 
 ## Description
 
