@@ -1,6 +1,6 @@
 # PixelPop
 
-![PixelPop Logo](https://drive.google.com/file/d/1WGz3nXZQ65flwqlvNi3fEU_nabXiNuE3/view?usp=sharing)
+![PixelPop Logo](https://drive.google.com/uc?export=view&id=1WGz3nXZQ65flwqlvNi3fEU_nabXiNuE3)
 
 ## Description
 
