@@ -1,6 +1,6 @@
 # PixelPop
 
-![PixelPop Logo](app/src/main/res/drawable-xxxhdpi)
+![PixelPop Logo](https://imgur.com/a/JuvMOAl)
 
 ## Description
 
