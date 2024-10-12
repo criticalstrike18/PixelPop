@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "com.saksham.manimereads"
+    namespace = "com.saksham.pixelpop"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.saksham.manimereads"
+        applicationId = "com.saksham.pixelpop"
         minSdk = 27
         targetSdk = 34
         versionCode = 1
