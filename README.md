@@ -1,6 +1,6 @@
 # PixelPop
 
-![PixelPop Logo](https://imgur.com/a/JuvMOAl)
+![PixelPop Logo](https://res.cloudinary.com/dimctuf52/image/upload/v1728760731/PixelPop_Logo_jbpiaf.png)
 
 ## Description
 
